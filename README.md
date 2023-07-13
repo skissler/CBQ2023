@@ -3,8 +3,6 @@
 ## Syllabus 
 
 ### Instructor:
-
-__[Prof. Stephen Kissler](stephen.kissler@colorado.edu)__
-
+__[Prof. Stephen Kissler](stephen.kissler@colorado.edu)__\
 ECCS 118D
 
