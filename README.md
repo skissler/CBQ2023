@@ -49,10 +49,10 @@ Office hours: TBD
 Course: CSCI 2897  
 Lectures: Tuesday & Thursday, 2:00pm – 3:15pm  
 Location: JSCBB B115  
-Lecturer: Prof. Daniel Larremore  
-Office Hours: Tu 3:15-4:00 and Th 12:00-2:00, JSCBB A414  
-Email: daniel.larremore@colorado.edu  
-Webpage: [https://github.com/dblarremore/CSCI2897](https://github.com/dblarremore/CSCI2897) 
+Lecturer: Prof. Stephen Kissler 
+Office Hours: TBD
+Email: stephen.kissler@colorado.edu  
+Webpage: [https://github.com/skissler/CBQ2023](https://github.com/skissler/CBQ2023) 
 
 ### Description
 *Calculating Biological Quantities* is an interdisciplinary course that brings together mathematics, coding, modeling, and biology. It is part of CU Boulder's *Computational Biology* minor.  Our **learning goals** in this course include
@@ -73,9 +73,8 @@ MATH 1300 or APPM 1350 (Calc I).  This course has its roots in biology, math, an
 ### Overview
 * Mostly lecture-style class, in which I write on blank-ish slides and we talk about problems. 
 * Readings may be assigned before class. 
-* Problem sets consist of a few types of exercises: "free throws" / "pushups" in which students get repeated practice on an easy or old topic;  more challenging problems with multiple parts where we engage with new concepts; and written responses to readings, models, or current events that are relevant. 
-* A Course Project will allow students to engage with the course material over a longer period than homeworks. There are three components that will be graded: a Project Proposal, a Project Report, and a Project Presentation. 
-* Computational Biology is cool.
+* Problem sets consist of a mix of pen-and-paper and coding-type exercises. 
+* A course project will allow students to engage with the course material over a longer period than homeworks. There are three components that will be graded: a Project Proposal, a Project Report, and a Project Presentation. 
 
 
 ### Coursework & Grading
