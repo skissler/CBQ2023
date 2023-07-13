@@ -2,19 +2,10 @@
 
 __Prof. [Stephen Kissler](mailto:stephen.kissler@colorado.edu)__ 
 ([ECCS 118D](Images/ECCRmap.png))\
-Tu/Th xxx - xxx \
-JSCBB xxxx 
+Tu/Th 2:30 - 3:45 \
+JSCBB B115 \
+Office hours: TBD  
 
-
-### Course materials 
-
-# CSCI - 2897 
- 
-CU Boulder's CSCU 2897 - Calculating Biological Quantities   
-Prof. [Daniel Larremore](http://larremorelab.github.io/)  
-Fall 2022  
-Tu/Th 2:00-3:15, JSCBB B115  
-Office Hours: Tu 3:15-4:00 and Th 12:00-2:00, JSCBB A414
  
 ## Schedule
 
