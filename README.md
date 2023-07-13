@@ -3,8 +3,8 @@
 ## Syllabus 
 
 ### Instructor:
-__[Prof. Stephen Kissler](stephen.kissler@colorado.edu)__\
-[stephen.kissler@colorado.edu](stephen.kissler@colorado.edu)\
+__[Prof. Stephen Kissler](mailto:stephen.kissler@colorado.edu)__\
+[stephen.kissler@colorado.edu](mailto:stephen.kissler@colorado.edu)\
 ECCS 118D\
 [kisslerlab@github.io](http://www.kisslerlab@github.io)
 
