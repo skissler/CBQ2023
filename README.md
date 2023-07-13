@@ -9,41 +9,41 @@ Office hours: TBD
  
 ## Schedule
 
-| Date      | Topic                                                         | Reading       | Links     | Assignments          |
-| --------- | ------------------------------------------------------------- | ------------- | --------- | -------------------- |
-| 8/23      | Syllabus & a tour of math. models & linear algebra            |               | [Lec. 1](https://github.com/dblarremore/CSCI2897/blob/master/Notes/lecture_1.pdf)          |                      |
-| 8/25      | How to Construct a Model                                      | OD-1, [Twitter](https://twitter.com/seanjtaylor/status/1349583017719709699) |  [Lec. 2](https://github.com/dblarremore/CSCI2897/blob/master/Notes/lecture_2.pdf)         |
-| 8/30      | How to Construct a Model                                      | review OD-2   |           | A0 Due               |
-| 9/1       | Solutions to Differential Equations — Numerical vs Analytical | OD-3.1,3.2    | [Lec. 3](https://github.com/dblarremore/CSCI2897/blob/master/Notes/lecture_3.pdf), [Recording](https://cuboulder.zoom.us/rec/share/_VtJc3rB3c3PbFrrkk4KEK66AvUpsJWEZ1T5RCbxfTjwOSoUpzKqW5KCkxV3Vx1Q.O4njGA0iyAnnzTgc?startTime=1662399687000)           |                      |
-| 9/6\*     | Exponential & Logistic Growth                                 | OD-3.2              | [Lec. 4](https://github.com/dblarremore/CSCI2897/blob/master/Notes/lecture_4.pdf), [Recording](https://cuboulder.zoom.us/rec/share/_VtJc3rB3c3PbFrrkk4KEK66AvUpsJWEZ1T5RCbxfTjwOSoUpzKqW5KCkxV3Vx1Q.O4njGA0iyAnnzTgc?startTime=1662401705000) | [A1](https://github.com/dblarremore/CSCI2897/blob/master/Assignments/A1.pdf) Due               |
-| 9/8\*     | Separation of Variables and Logistic Solution                 | Z-2.2              | [Lec. 5](https://github.com/dblarremore/CSCI2897/blob/master/Notes/lecture_5.pdf), [Recording Part I](https://cuboulder.zoom.us/rec/share/eatv3IT-Pa2FzcL-NZ7U0y6yamVdJQIPFYzS6cwQDS8dPsM1k8ghOkZ6eYhN0oCO.t8xO-AITAWTYitLt), [Recording Part II ](https://cuboulder.zoom.us/rec/share/zB9X0aVK2Est_Jw6BBNp9bREVOFsA91vsyDGrkxxH5tS1kpyrgT4D0MaWiZKSaGp.jYfHmcsrm6CV1xM_)|                      |
-| 9/13      | Haploid models of natural selection      | OD-3.3              | [Lec. 6](https://github.com/dblarremore/CSCI2897/blob/master/Notes/lecture_6.pdf)          |                |
-| 9/15      | Equilibria, Exploring Logistics via Desmos                           |               | [Lec. 7](https://github.com/dblarremore/CSCI2897/blob/master/Notes/lecture_7.pdf), [Desmos](https://www.desmos.com/calculator)          |                      |
-| 9/20      | Species Interactions: Lotka Volterra              | OD-3.4              |  [Lec. 8](https://github.com/dblarremore/CSCI2897/blob/master/Notes/lecture_8.pdf)          | [A2](https://github.com/dblarremore/CSCI2897/blob/master/Assignments/A2.pdf) Due               |
-| 9/22\*    | Consumer-Resource Models                                      | OD-3.4              | [Lec. 8](https://github.com/dblarremore/CSCI2897/blob/master/Notes/lecture_8.pdf) |                      |
-| 9/27      | Consumer-Resource Models                  |               | [Lec. 9](https://github.com/dblarremore/CSCI2897/blob/master/Notes/lecture_9.pdf)           |                |
-| 9/29      | Math: Integrating Factors & Linear Equations                                                    |               |  [Lec. 10](https://github.com/dblarremore/CSCI2897/blob/master/Notes/lecture_10.pdf)         |                      |
-| 10/4      | SIR models I                                                 |               | [Lec. 11](https://github.com/dblarremore/CSCI2897/blob/master/Notes/lecture_11.pdf)          | [A3](https://github.com/dblarremore/CSCI2897/blob/master/Assignments/A3.pdf) Due            |
-| 10/6      | SEIR and Vaccination I                                        |               |           |  |
-| 10/11     | Vaccination II                                                |               | [Lec. 12](https://github.com/dblarremore/CSCI2897/blob/master/Notes/lecture_12.pdf)          | Project Proposal Due                     |
-| 10/13\*   | Multiple variables, and systems of equations                  |               |  |                      |
-| 10/18     | Multiple variables, and systems of equations                  |               |           |                |
-| 10/20\*   | Vectors, matrices                                             |               | [Recording](https://cuboulder.zoom.us/rec/share/lf6vhwIR861AQ4knmQ8fkQ2CFEFC88yj77Vr_m1lHektuhFhtAjwIjNhMhKQVJkm.JH-P_z8OBD69tydn), [Lec. 13](https://github.com/dblarremore/CSCI2897/blob/master/Notes/lecture_13.pdf) | [A4](https://github.com/dblarremore/CSCI2897/blob/master/Assignments/A4.pdf) Due                     |
-| 10/25     | Inverse matrices and Eigenvalues                              |               | [Lec. 14](https://github.com/dblarremore/CSCI2897/blob/master/Notes/lecture_14.pdf)          |                |
-| 10/27     | Inverse matrices and Eigenvalues II                                    |               | [Lec. 15](https://github.com/dblarremore/CSCI2897/blob/master/Notes/lecture_15.pdf)          |                      |
-| 11/1      | Eigenvalues & Eigenvectors                                  |               |           |                |
-| 11/3      | Multivariable Linear Systems                                           |               | [Lec. 16](https://github.com/dblarremore/CSCI2897/blob/master/Notes/lecture_16.pdf)          |                      |
-| 11/8      | Eigenvalues                                                    |               | [Lec. 17](https://github.com/dblarremore/CSCI2897/blob/master/Notes/lecture_17.pdf)           |                |
-| 11/10     | Complex Eigenvalues                                                  |               |           |                      |
-| 11/15     | Demography                                                            |               | [Lec. 18](https://github.com/dblarremore/CSCI2897/blob/master/Notes/lecture_18.pdf)           |                      |
-| 11/17     | Models w/ 2 ICs: Newton's law, Carbon Dating, Mortgage Pymts                                                             |               | [Lec. 19](https://github.com/dblarremore/CSCI2897/blob/master/Notes/lecture_19.pdf)           | [A5](https://github.com/dblarremore/CSCI2897/blob/master/Assignments/A5.pdf) Due                      |
-| 11/22     | FALL BREAK                                                    |               |           |                      |
-| 11/24     | FALL BREAK                                                    |               |           |                      |
-| 11/29     | Models w/ 2 ICs, part II|               |           |                      |
-| 12/1      | Final presentations (Last names A-K)                                     |               |           |                      |
-| 12/6      | Final presentations (Last names L-Z)                                          |               |           | [A6](https://github.com/dblarremore/CSCI2897/blob/master/Assignments/A6.pdf) Due                     |
-| 12/8      | Work on your project  |               |           |                      |
-| final day | Project Report Due                                            |               |           |                      |
+| Date      | Topic                                                         | Reading       | Links                                                                                 | Assignments          |
+| --------- | ------------------------------------------------------------- | ------------- | ------------------------------------------------------------------------------------- | -------------------- |
+| 8/23      | Syllabus & a tour of math. models & linear algebra            |               | Lec. 1                                                                                |                      |
+| 8/25      | How to Construct a Model                                      | OD-1          | Lec. 2                                                                                |
+| 8/30      | How to Construct a Model                                      | review OD-2   |                                                                                       | A0 Due               |
+| 9/1       | Solutions to Differential Equations — Numerical vs Analytical | OD-3.1,3.2    | Lec. 3                                                                                |                      |
+| 9/6\*     | Exponential & Logistic Growth                                 | OD-3.2        | Lec. 4                                                                                | [A1](https://github.com/dblarremore/CSCI2897/blob/master/Assignments/A1.pdf) Due               |
+| 9/8\*     | Separation of Variables and Logistic Solution                 | Z-2.2         | Lec. 5                                                                                |                      |
+| 9/13      | Haploid models of natural selection                           | OD-3.3        | Lec. 6                                                                                |                |
+| 9/15      | Equilibria, Exploring Logistics via Desmos                    |               | Lec. 7                                                                                |                      |
+| 9/20      | Species Interactions: Lotka Volterra                          | OD-3.4        | Lec. 8                                                                                | [A2](https://github.com/dblarremore/CSCI2897/blob/master/Assignments/A2.pdf) Due               |
+| 9/22\*    | Consumer-Resource Models                                      | OD-3.4        | Lec. 8                                                                                |                      |
+| 9/27      | Consumer-Resource Models                                      |               | Lec. 9                                                                                |                |
+| 9/29      | Math: Integrating Factors & Linear Equations                  |               | Lec. 10                                                                               |                      |
+| 10/4      | SIR models I                                                  |               | Lec. 11                                                                               | [A3](https://github.com/dblarremore/CSCI2897/blob/master/Assignments/A3.pdf) Due            |
+| 10/6      | SEIR and Vaccination I                                        |               |                                                                                       |  |
+| 10/11     | Vaccination II                                                |               | Lec. 12                                                                               | Project Proposal Due                     |
+| 10/13\*   | Multiple variables, and systems of equations                  |               |                                                                                       |                      |
+| 10/18     | Multiple variables, and systems of equations                  |               |                                                                                       |                |
+| 10/20\*   | Vectors, matrices                                             |               | Lec. 13                                                                               | [A4](https://github.com/dblarremore/CSCI2897/blob/master/Assignments/A4.pdf) Due                     |
+| 10/25     | Inverse matrices and Eigenvalues                              |               | Lec. 14                                                                               |                |
+| 10/27     | Inverse matrices and Eigenvalues II                           |               | Lec. 15                                                                               |                      |
+| 11/1      | Eigenvalues & Eigenvectors                                    |               |                                                                                       |                |
+| 11/3      | Multivariable Linear Systems                                  |               | Lec. 16                                                                               |                      |
+| 11/8      | Eigenvalues                                                   |               | Lec. 17                                                                               |                |
+| 11/10     | Complex Eigenvalues                                           |               |                                                                                       |                      |
+| 11/15     | Demography                                                    |               | Lec. 18                                                                               |                      |
+| 11/17     | Models w/ 2 ICs: Newton's law, Carbon Dating, Mortgage Pymts  |               | Lec. 19                                                                               | [A5](https://github.com/dblarremore/CSCI2897/blob/master/Assignments/A5.pdf) Due                      |
+| 11/22     | FALL BREAK                                                    |               |                                                                                       |                      |
+| 11/24     | FALL BREAK                                                    |               |                                                                                       |                      |
+| 11/29     | Models w/ 2 ICs, part II|                                     |               |                                                                                       |
+| 12/1      | Final presentations (Last names A-K)                          |               |                                                                                       |                      |
+| 12/6      | Final presentations (Last names L-Z)                          |               |                                                                                       | [A6](https://github.com/dblarremore/CSCI2897/blob/master/Assignments/A6.pdf) Due                     |
+| 12/8      | Work on your project                                          |               |                                                                                       |                      |
+| final day | Project Report Due                                            |               |                                                                                       |                      |
 
 ## Syllabus
 Course: CSCI 2897  
