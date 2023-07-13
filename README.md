@@ -6,6 +6,6 @@
 __[Prof. Stephen Kissler](stephen.kissler@colorado.edu)__\
 [stephen.kissler@colorado.edu](stephen.kissler@colorado.edu)\
 ECCS 118D\
-[kisslerlab@github.io](kisslerlab@github.io)
+[kisslerlab@github.io](http://www.kisslerlab@github.io)
 
 ### Course materials 
