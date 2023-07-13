@@ -2,3 +2,7 @@
 
 ## Syllabus 
 
+### Instructor:
+__[Prof. Stephen Kissler](stephen.kissler@colorado.edu)__
+asdf
+
