@@ -1,12 +1,18 @@
 # CSCI 2897: Calculating Biological Quantities (Fall 2023)
 
 __Prof. [Stephen Kissler](mailto:stephen.kissler@colorado.edu)__\
+Tu/Th xxx - xxx 
+asdf asdf 
+
+### Contact
 [stephen.kissler@colorado.edu](mailto:stephen.kissler@colorado.edu)\
 ECCS 118D\
 [kisslerlab@github.io](https://kisslerlab.github.io/)
 
-### Course materials 
 
+
+
+### Course materials 
 
 # CSCI - 2897 
  
