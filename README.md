@@ -11,39 +11,41 @@ Office hours: TBD
 
 | Date      | Topic                                                         | Reading       | Links                                                                                 | Assignments          |
 | --------- | ------------------------------------------------------------- | ------------- | ------------------------------------------------------------------------------------- | -------------------- |
-| 8/23      | Syllabus & a tour of math. models & linear algebra            |               | Lec. 1                                                                                |                      |
-| 8/25      | How to Construct a Model                                      | OD-1          | Lec. 2                                                                                |                      |
-| 8/30      | How to Construct a Model                                      | review OD-2   |                                                                                       | A0 Due               |
-| 9/1       | Solutions to Differential Equations — Numerical vs Analytical | OD-3.1,3.2    | Lec. 3                                                                                |                      |
-| 9/6\*     | Exponential & Logistic Growth                                 | OD-3.2        | Lec. 4                                                                                | A1 Due               |
-| 9/8\*     | Separation of Variables and Logistic Solution                 | Z-2.2         | Lec. 5                                                                                |                      |
-| 9/13      | Haploid models of natural selection                           | OD-3.3        | Lec. 6                                                                                |                      |
-| 9/15      | Equilibria, Exploring Logistics via Desmos                    |               | Lec. 7                                                                                |                      |
-| 9/20      | Species Interactions: Lotka Volterra                          | OD-3.4        | Lec. 8                                                                                | A2 Due               |
-| 9/22\*    | Consumer-Resource Models                                      | OD-3.4        | Lec. 8                                                                                |                      |
-| 9/27      | Consumer-Resource Models                                      |               | Lec. 9                                                                                |                      |
-| 9/29      | Math: Integrating Factors & Linear Equations                  |               | Lec. 10                                                                               |                      |
-| 10/4      | SIR models I                                                  |               | Lec. 11                                                                               | A3 Due               |
-| 10/6      | SEIR and Vaccination I                                        |               |                                                                                       |                      |
-| 10/11     | Vaccination II                                                |               | Lec. 12                                                                               | Project Proposal Due |
-| 10/13\*   | Multiple variables, and systems of equations                  |               |                                                                                       |                      |
-| 10/18     | Multiple variables, and systems of equations                  |               |                                                                                       |                      |
-| 10/20\*   | Vectors, matrices                                             |               | Lec. 13                                                                               | A4 Due               |
-| 10/25     | Inverse matrices and Eigenvalues                              |               | Lec. 14                                                                               |                      |
-| 10/27     | Inverse matrices and Eigenvalues II                           |               | Lec. 15                                                                               |                      |
-| 11/1      | Eigenvalues & Eigenvectors                                    |               |                                                                                       |                      |
-| 11/3      | Multivariable Linear Systems                                  |               | Lec. 16                                                                               |                      |
-| 11/8      | Eigenvalues                                                   |               | Lec. 17                                                                               |                      |
-| 11/10     | Complex Eigenvalues                                           |               |                                                                                       |                      |
-| 11/15     | Demography                                                    |               | Lec. 18                                                                               |                      |
-| 11/17     | Models w/ 2 ICs: Newton's law, Carbon Dating, Mortgage Pymts  |               | Lec. 19                                                                               | A5 Due               |
-| 11/22     | FALL BREAK                                                    |               |                                                                                       |                      |
-| 11/24     | FALL BREAK                                                    |               |                                                                                       |                      |
-| 11/29     | Models w/ 2 ICs, part II|                                     |               |                                                                                       |                      |
-| 12/1      | Final presentations (Last names A-K)                          |               |                                                                                       |                      |
-| 12/6      | Final presentations (Last names L-Z)                          |               |                                                                                       | A6 Due               |
-| 12/8      | Work on your project                                          |               |                                                                                       |                      |
+| 8/29      | Syllabus & why are we here                                    |               | Lec. 1                                                                                |                      |
+| 8/31      | How to Construct a Model                                      | OD-1          | Lec. 2                                                                                |                      |
+| 9/5       | Difference equation models: generating and solving            | review OD-2   | Lec. 3                                                                                | A0 Due               |
+| 9/7       | Stability of nonlinear difference equations; chaos            | OD-3.1,3.2    | Lec. 4                                                                                |                      |
+| 9/12      | Systems of equations and introduction to matrices             | OD-3.2        | Lec. 5                                                                                | A1 Due               |
+| 9/14      | Matrices as operators: eigenvalues and eigenvectors           | Z-2.2         | Lec. 6                                                                                |                      |
+| 9/19      | Solving matrix equations using the inverse; special topics    | OD-3.3        | Lec. 7                                                                                |                      |
+| 9/21\*    | _Catch up_                                                    |               |                                                                                       |                      |
+| 9/26      | Introduction to ODEs: analytic vs. numeric solutions          | OD-3.4        | Lec. 8                                                                                | A2 Due               |
+| 9/28      | Fundamental ODE models and their features                     | OD-3.4        | Lec. 9                                                                                |                      |
+| 10/3\*    | Analytic and asymptotic analysis of fundamental ODE models    |               | Lec. 10                                                                               |                      |
+| 10/5      | Competition models: standard and Lotka-Volterra               |               | Lec. 11                                                                               |                      |
+| 10/10     | Stability of multi-variate competition equations              |               | Lec. 12                                                                               | A3 Due               |
+| 10/12     | _Catch up_                                                    |               |                                                                                       |                      |
+| 10/17     | __MIDTERM__                                                   |               |                                                                                       | Project Proposal Due |
+| 10/19     | Introduction to epidemic modeling                             |               | Lec. 13                                                                               |                      |
+| 10/24     | Extending epidemic models                                     |               | Lec. 14                                                                               |                      |
+| 10/26     | Age-structured epidemics                                      |               | Lec. 15                                                                               | A4 Due               |
+| 10/31     | Spatially structured epidemics                                |               | Lec. 16                                                                               |                      |
+| 11/2      | Modeling evolution: an introduction to game theory            |               | Lec. 17                                                                               |                      |
+| 11/7      | Modeling evolution: cooperation                               |               | Lec. 18                                                                               |                      |
+| 11/9      | Modeling evolution: relationships                             |               | Lec. 19                                                                               |                      |
+| 11/14     | Simluating evolutionary games                                 |               | Lec. 20                                                                               |                      |
+| 11/16     | _Catch up_                                                    |               |                                                                                       |                      |
+| 11/21     | FALL BREAK                                                    |               |                                                                                       |                      |
+| 11/23     | FALL BREAK                                                    |               |                                                                                       | A5 Due               |
+| 11/28\*   | Combining evolutionary and population dynamics (forward sims) |               | Lec. 21                                                                               |                      |
+| 11/30\*   | Combining evolutionary and population dynamics (inference)    |               | Lec. 22                                                                               |                      |
+| 12/5      | Final presentations (Last names A-K)                          |               |                                                                                       |                      |
+| 12/7      | Final presentations (Last names L-Z)                          |               |                                                                                       |                      |
+| 12/12     | Work on your project                                          |               |                                                                                       | A6 Due               |
+| 12/14     | Work on your project                                          |               |                                                                                       |                      |
 | final day | Project Report Due                                            |               |                                                                                       |                      |
+
+\* Indicates a possibly virtual class session 
 
 ## Syllabus
 Course: CSCI 2897  
