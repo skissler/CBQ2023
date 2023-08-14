@@ -25,13 +25,13 @@ Office hours: TBD
 | 10/5      | Competition models: standard and Lotka-Volterra               |               | Lec. 11                                                                               |                      |
 | 10/10     | Stability of multi-variate competition equations              |               | Lec. 12                                                                               | A3 Due               |
 | 10/12     | _Catch up_                                                    |               |                                                                                       |                      |
-| 10/17     | __MIDTERM__                                                   |               |                                                                                       | Project Proposal Due |
+| 10/17     | __MIDTERM__                                                   |               |                                                                                       |                      |
 | 10/19     | Introduction to epidemic modeling                             |               | Lec. 13                                                                               |                      |
 | 10/24     | Extending epidemic models                                     |               | Lec. 14                                                                               |                      |
-| 10/26     | Age-structured epidemics                                      |               | Lec. 15                                                                               | A4 Due               |
-| 10/31     | Spatially structured epidemics                                |               | Lec. 16                                                                               |                      |
+| 10/26     | Age-structured epidemics                                      |               | Lec. 15                                                                               |                      |
+| 10/31     | Spatially structured epidemics                                |               | Lec. 16                                                                               | Project Proposal Due |
 | 11/2      | Modeling evolution: an introduction to game theory            |               | Lec. 17                                                                               |                      |
-| 11/7      | Modeling evolution: cooperation                               |               | Lec. 18                                                                               |                      |
+| 11/7      | Modeling evolution: cooperation                               |               | Lec. 18                                                                               | A4 Due               |
 | 11/9      | Modeling evolution: relationships                             |               | Lec. 19                                                                               |                      |
 | 11/14     | Simluating evolutionary games                                 |               | Lec. 20                                                                               |                      |
 | 11/16     | _Catch up_                                                    |               |                                                                                       |                      |
