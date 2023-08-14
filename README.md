@@ -39,8 +39,8 @@ Office hours: TBD
 | 11/23     | FALL BREAK                                                    |               |                                                                                       |                      |
 | 11/28\*   | Combining evolutionary and population dynamics (forward sims) |               | Lec. 21                                                                               |                      |
 | 11/30\*   | Combining evolutionary and population dynamics (inference)    |               | Lec. 22                                                                               | A5 Due               |
-| 12/5      | Final presentations (Last names A-K)                          |               |                                                                                       |                      |
-| 12/7      | Final presentations (Last names L-Z)                          |               |                                                                                       |                      |
+| 12/5      | Interim project presentations (Last names A-K)                |               |                                                                                       |                      |
+| 12/7      | Interim project presentations (Last names L-Z)                |               |                                                                                       |                      |
 | 12/12     | Work on your project                                          |               |                                                                                       |                      |
 | 12/14     | Work on your project                                          |               |                                                                                       |                      |
 | final day | Project Report Due                                            |               |                                                                                       |                      |
