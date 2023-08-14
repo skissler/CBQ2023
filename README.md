@@ -88,7 +88,7 @@ MATH 1300 or APPM 1350 (Calc I).  This course has its roots in biology, math, an
 	- Project presentation: 20 points 
 	- Final project report: 100 points 
 
-Letter grades will be assigned at the end of the course with A=90+, B=80-89, C=70-79, D=60-69, F=<60.   
+Letter grades will be assigned at the end of the course based on percentages, with A=90+, B=80-89, C=70-79, D=60-69, F=<60.   
 * **Schedule:** There will be approximately 9 homework assignments, due mostly during the first 2/3 of the semester. The number and schedule may vary due to partial reordering of the course material based on student feedback. On 10/6, a project proposal is due. During the last full week of class, there will be project presentations. The project report will be due on the day of our scheduled "final".
 * **Exams:** None.
 * **Problem Sets:** Problem sets will be a mixture of math (e.g. solve this problem), writing (e.g. explain how X works in a few sentences), and coding (e.g. implement code for this model and produce a plot). Format for solutions will depend on the type of problems, but could include scans (use an app!) for handwritten math, PDF for written explanations, Jupyter Notebooks for coding problems, or brief 1-on-1 discussions over Zoom.
