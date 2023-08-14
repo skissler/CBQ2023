@@ -82,7 +82,7 @@ MATH 1300 or APPM 1350 (Calc I).  This course has its roots in biology, math, an
 ### Coursework & Grading
 * **Grade Breakdown:** This course will be scored on a points-based system: 
 
-- There are six homework assignments at 20 points each, one of which will be dropped (see below). 
+	- There are six homework assignments at 20 points each, one of which will be dropped (see below). 
 
 Homework: 100pts (20 per assignment) 
 Midterm: 40pts 
