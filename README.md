@@ -89,8 +89,8 @@ MATH 1300 or APPM 1350 (Calc I).  This course has its roots in biology, math, an
 	- Final project report: 100 points 
 
 Letter grades will be assigned at the end of the course based on percent score, with A=90+, B=80-89, C=70-79, D=60-69, F=<60.   
-* **Schedule:** There will be approximately 9 homework assignments, due mostly during the first 2/3 of the semester. The number and schedule may vary due to partial reordering of the course material based on student feedback. On 10/6, a project proposal is due. During the last full week of class, there will be project presentations. The project report will be due on the day of our scheduled "final".
-* **Exams:** None.
+* **Schedule:** There will be six assignments. Due dates may vary due to partial reordering of the course material based on student feedback. On 10/6, a project proposal is due. During the last full week of class, there will be project presentations. The project report will be due on the day of our scheduled "final".
+* **Exams:** There is one midterm exam.
 * **Problem Sets:** Problem sets will be a mixture of math (e.g. solve this problem), writing (e.g. explain how X works in a few sentences), and coding (e.g. implement code for this model and produce a plot). Format for solutions will depend on the type of problems, but could include scans (use an app!) for handwritten math, PDF for written explanations, Jupyter Notebooks for coding problems, or brief 1-on-1 discussions over Zoom.
 * Most assignments will be submitted via Canvas.
 * **Late / Dropped Assignments:** Life happens! Privacy is important! You don't need to ask for a homework to be dropped or to turn something in. Instead: (1) your lowest homework grade will be automatically dropped at the end of the semester. (2) You get three "late days" to use as you wish. You could, for example, turn in one homework 3 days late, or you could turn in three homeworks 1 day late each. Use wisely! Any late turn-ins are rounded up to the nearest whole day, e.g. turning in 5 minutes late or 23 hours late would both count as one day. 
