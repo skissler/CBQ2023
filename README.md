@@ -43,7 +43,7 @@ Office hours: TBD (fill out poll [here](http://whenisgood.net/pc8ydjw))
 | 12/7      | Interim project presentations (Last names L-Z)                |               |                                                                                       |                              |
 | 12/12     | Work on your project                                          |               |                                                                                       |                              |
 | 12/14     | Work on your project                                          |               |                                                                                       |                              |
-| final day | Project Report Due                                            |               |                                                                                       |                              |
+| final day | __Project Report Due__                                        |               |                                                                                       |                              |
 
 \* Indicates a possibly virtual class session 
 
