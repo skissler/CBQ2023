@@ -1,7 +1,7 @@
 # CSCI 2897: Calculating Biological Quantities (Fall 2023)
 
 __Prof. [Stephen Kissler](mailto:stephen.kissler@colorado.edu)__ 
-([ECCS 118D](Images/ECCRmap.png))\
+([ECES 118D](Images/ECCRmap.png))\
 Tu/Th 2:30 - 3:45 \
 JSCBB B115 \
 Office hours: TBD  
@@ -57,13 +57,13 @@ Email: stephen.kissler@colorado.edu
 Webpage: [https://github.com/skissler/CBQ2023](https://github.com/skissler/CBQ2023) 
 
 ### Description
-*Calculating Biological Quantities* is an interdisciplinary course that brings together mathematics, coding, modeling, and biology. It is part of CU Boulder's *Computational Biology* minor.  Our **learning goals** in this course include
+*Calculating Biological Quantities* is an interdisciplinary course that brings together mathematics, coding, modeling, and biology. It is part of CU Boulder's *Computational Biology* minor.  Our **learning goals** in this course include:
 
-* mastering practical mathematical techniques for representing and analyzing biological quantities of different kinds
-* developing mathematical intuition about common biological calculations and concepts
-* learning to model biologically related feedback processes, and solve or analyze their corresponding differential or difference equations
-* adapting and combining methods to solve biological problems
-* gaining confidence in decoding mathematical models and language, including the ideas and vocabulary of differential equations and linear algebra
+* Mastering practical mathematical techniques for representing and analyzing biological quantities of different kinds
+* Developing mathematical intuition about common biological calculations and concepts
+* Learning to model biologically related feedback processes, and solve or analyze their corresponding differential or difference equations
+* Adapting and combining methods to solve biological problems
+* Gaining confidence in decoding mathematical models and language, including the ideas and vocabulary of differential equations and linear algebra
 
 ### Prerequisites
 MATH 1300 or APPM 1350 (Calc I).  This course has its roots in biology, math, and computer science, and while knowledge of all three is great, the whole point of the class is to develop strengths in the interdisciplinary space *between* these three fields. If you are enrolled in the course and feel that one area or another is a problem, let's talk about it. 
@@ -72,25 +72,27 @@ MATH 1300 or APPM 1350 (Calc I).  This course has its roots in biology, math, an
 * [Required] Otto & Day: *A Biologist's Guide to Mathematical Modeling in Ecology and Evolution*
 * [Required] Zill: *A First Course in Differential Equations*
 
+Both of these texts are freely available online through the University of Colorado Library. 
+
 ### Overview
-* Mostly lecture-style class, in which I write on blank-ish slides and we talk about problems. 
+* This is a mostly lecture-style class, in which I write on blank-ish slides and we talk about problems. 
 * Readings may be assigned before class. 
 * Problem sets consist of a mix of pen-and-paper and coding-type exercises. 
-* A course project will allow students to engage with the course material over a longer period than homeworks. There are three components that will be graded: a Project Proposal, a Project Presentation, and a Project Report. 
+* A course project will allow students to engage with the course material over a longer period than homeworks. There are three components that will be graded: a Proposal, a Presentation, and a Report. 
 
 
 ### Coursework & Grading
-* **Grade Breakdown:** This course will be scored on a points-based system out of 300 total points: 
+* **Grade Breakdown:** This course will be scored on a points-based system out of 300 total points, divided as follows: 
 
 	- Homework: 100 points (20 per assignment with six assignments, one of which will be dropped - see below)
 	- Midterm: 40 points
 	- Project proposal: 40 points 
 	- Project presentation: 20 points 
-	- Final project report: 100 points 
+	- Project report: 100 points 
 
-Letter grades will be assigned at the end of the course based on percent score, with A=90+, B=80-89, C=70-79, D=60-69, F=<60.   
-* **Schedule:** The course consists of a "methods" section (prior to the midterm) and an "applications" section (after the midterm). There will be six assignments. Due dates may vary due to partial reordering of the course material based on student feedback. The midterm is on 10/17. On 10/31, a project proposal is due. During the second-to-last full week of class, there will be interim project presentations. The project report will be due at the end of our scheduled "final" slot: __Wed 20 Dec at 7pm.__
-* **Exams:** There is one midterm exam. It is worth the equivalent number of points as two homework assignments, and the length and difficulty of the exam will reflect this. The aim of the exam is to provide an opportunity to consolidate the "methods" section of the course before moving on to the "applications" section. 
+Letter grades will be assigned at the end of the course based on percent score out of 300, with A=90%+, B=80%-89%, C=70%-79%, D=60%-69%, F=<60%.   
+* **Schedule:** The course consists of a "methods" section (prior to the midterm) and an "applications" section (after the midterm). There will be six assignments. Due dates are listed in the schedule above, but may vary due to partial reordering of the course material based on student feedback. The midterm is on 10/17. On 10/31, a project proposal is due. During the second-to-last full week of class, there will be project presentations during which students can get feedback on their in-progress project. The project report will be due at the end of our scheduled "final" slot on __Wed 20 Dec at 7pm.__
+* **Exams:** There is one midterm exam. It is worth an equivalent number of points as two homework assignments, and the length and difficulty of the exam will reflect this. The aim of the exam is to provide an opportunity to consolidate the "methods" section of the course before moving on to the "applications" section. 
 * **Assignments:** Assignments will consist of a mixture of math (e.g. solve this problem), writing (e.g. explain how X works in a few sentences), and coding (e.g. implement code for this model and produce a plot). Format for solutions will depend on the type of problems, but could include scans (use an [app](https://apps.apple.com/us/app/adobe-scan-pdf-ocr-scanner/id1199564834)!) for handwritten math, PDFs for written explanations, or Jupyter Notebooks for coding problems. Assignments will be submitted via Canvas.
 * **Late / Dropped Assignments:** Life happens! Privacy is important! You don't need to ask for a homework to be dropped or to turn something in. Instead: (1) your lowest homework grade will be automatically dropped at the end of the semester. (2) You get three "late days" to use as you wish. You could, for example, turn in one homework 3 days late, or you could turn in three homeworks 1 day late each. Use wisely! Any late turn-ins are rounded up to the nearest whole day, e.g. turning in 5 minutes late or 23 hours late would both count as one day. 
 * **Collaboration Policy:** Don't Google, StackOverflow, buy the teacher's edition of the books, or buy Chegg. Instead, work together. *Collaboration is encouraged* on the problem sets. However, you may not copy (in any way) from your collaborators and you must respect University academic policies at all times. To be clear: you may discuss the problems verbally, but you must write up your solutions separately. If you do discuss the problems with someone (and you are encouraged to!), you must then list and describe the extent of your collaboration in your solutions (a footnote is fine). 
@@ -101,18 +103,18 @@ Letter grades will be assigned at the end of the course based on percent score, 
 There are three components of the course project to be graded:
 
 1. A project proposal.
-2. A short presentation of the key ideas and results.
+2. A short presentation of the key ideas and preliminary results.
 3. A 5-page project report, due on the day of the "Final."
 
-- The **goal** of the course project if for students to explore one of the topics from class more deeply, developing and following their own curiosity in a scholarly way. 
-- Students may work individually or with a partner. Expectations for projects done in pairs will be higher. Responsibility for balancing workloads between partners will be left to the students.
-- Any topic covered in class, from mathematics to biological applications, is in-bounds. 
+* The **goal** of the course project if for students to explore one of the topics from class more deeply, developing and following their own curiosity in a scholarly way. 
+* Students may work individually or with a partner. Expectations for projects done in pairs will be higher. Responsibility for balancing workloads between partners will be left to the students.
+* Any topic covered in class, from mathematics to biological applications, is in-bounds. 
 
 *Project Proposal* — Submitted via canvas as a typeset PDF *only*, project proposals should include (0) a title and proposer names, and three paragraphs covering (1) background on the topic, (2) research or scholarly questions, and (3) learning goals and anticipated findings. Finally, proposers should note in a bulleted list (4) the key ways that the proposed project connects with topics from class. 
 
-*Project Presentation* — A 10 minute presentation, delivered in class with slides, should summarize the background and goals of the project, alone with the important results found. Presenters should expect to field questions from an engaged audience!
+*Project Presentation* — A 10 minute presentation, delivered in class with slides, should summarize the background and goals of the project, along with the important results found. Presenters should expect to field questions from an engaged audience! Note that there is another week's worth of class time to work on projects after the presentations. _Use the presentation wisely!_ The aim is not to present a fully-formed piece of work, but rather to discuss progress so far, sticking points, things you're hoping to achieve by the time the report is due. This is an opportunity to get my feedback and the feedback of your classmates before writing up the full report! 
 
-*Project Paper* — A 5-page typeset paper, with additional pages for references as needed, submitted as a singled PDF via Canvas. The report should be formatted like a scientific paper (11pt font, 2-column, 1-inch margins), with Introduction, Methods, Results, Discussion, and Bibliography sections, with an optional Appendix section for code. The Bibliography should include appropriate references for your work (primary literature, course materials, websites, source data, methods, etc.).
+*Project Paper* — A 5-page typeset paper, with additional pages for references as needed, submitted as a singled PDF via Canvas. The report should be formatted like a scientific paper, with Introduction, Methods, Results, Discussion, and Bibliography sections, with an optional Appendix section for code. The Bibliography should include appropriate references for your work (primary literature, course materials, websites, source data, methods, etc.).
 
 Advice for how to write any of the sections, or typeset a report, is available at any time during office hours! 
 
