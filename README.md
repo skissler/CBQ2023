@@ -9,41 +9,41 @@ Office hours: TBD
  
 ## Schedule
 
-| Date      | Topic                                                         | Reading       | Links                                                                                 | Assignments          |
-| --------- | ------------------------------------------------------------- | ------------- | ------------------------------------------------------------------------------------- | -------------------- |
-| 8/29      | Syllabus & why are we here?                                   |               | Lec. 1                                                                                |                      |
-| 8/31      | How to Construct a Model                                      | OD-1          | Lec. 2                                                                                | A0 Due  (9/1)        |
-| 9/5       | Difference equation models: generating and solving            | review OD-2   | Lec. 3                                                                                |                      |
-| 9/7       | Stability of nonlinear difference equations; chaos            | OD-3.1,3.2    | Lec. 4                                                                                |                      |
-| 9/12      | Systems of equations and introduction to matrices             | OD-3.2        | Lec. 5                                                                                |                      |
-| 9/14      | Matrices as operators: eigenvalues and eigenvectors           | Z-2.2         | Lec. 6                                                                                | A1 Due (9/15)        |
-| 9/19      | Solving matrix equations using the inverse; special topics    | OD-3.3        | Lec. 7                                                                                |                      |
-| 9/21\*    | _Catch up_                                                    |               |                                                                                       |                      |
-| 9/26      | Introduction to ODEs: analytic vs. numeric solutions          | OD-3.4        | Lec. 8                                                                                |                      |
-| 9/28      | Fundamental ODE models and their features                     | OD-3.4        | Lec. 9                                                                                | A2 Due (9/29)        |
-| 10/3\*    | Analytic and asymptotic analysis of fundamental ODE models    |               | Lec. 10                                                                               |                      |
-| 10/5      | Competition models: standard and Lotka-Volterra               |               | Lec. 11                                                                               |                      |
-| 10/10     | Stability of multi-variate competition equations              |               | Lec. 12                                                                               |                      |
-| 10/12     | _Catch up/review_                                             |               |                                                                                       | A3 Due (10/13)       |
-| 10/17     | __MIDTERM__                                                   |               |                                                                                       |                      |
-| 10/19     | Introduction to epidemic modeling                             |               | Lec. 13                                                                               |                      |
-| 10/24     | Extending epidemic models                                     |               | Lec. 14                                                                               |                      |
-| 10/26     | Age-structured epidemics                                      |               | Lec. 15                                                                               |                      |
-| 10/31     | Spatially structured epidemics                                |               | Lec. 16                                                                               | Project Proposal Due |
-| 11/2      | Modeling evolution: an introduction to game theory            |               | Lec. 17                                                                               |                      |
-| 11/7      | Modeling evolution: cooperation                               |               | Lec. 18                                                                               | A4 Due               |
-| 11/9      | Modeling evolution: relationships                             |               | Lec. 19                                                                               |                      |
-| 11/14     | Simluating evolutionary games                                 |               | Lec. 20                                                                               |                      |
-| 11/16     | _Catch up_                                                    |               |                                                                                       |                      |
-| 11/21     | FALL BREAK                                                    |               |                                                                                       |                      |
-| 11/23     | FALL BREAK                                                    |               |                                                                                       |                      |
-| 11/28\*   | Combining evolutionary and population dynamics (forward sims) |               | Lec. 21                                                                               |                      |
-| 11/30\*   | Combining evolutionary and population dynamics (inference)    |               | Lec. 22                                                                               | A5 Due               |
-| 12/5      | Interim project presentations (Last names A-K)                |               |                                                                                       |                      |
-| 12/7      | Interim project presentations (Last names L-Z)                |               |                                                                                       |                      |
-| 12/12     | Work on your project                                          |               |                                                                                       |                      |
-| 12/14     | Work on your project                                          |               |                                                                                       |                      |
-| final day | Project Report Due                                            |               |                                                                                       |                      |
+| Date      | Topic                                                         | Reading       | Links                                                                                 | Assignments                  |
+| --------- | ------------------------------------------------------------- | ------------- | ------------------------------------------------------------------------------------- | ---------------------------- |
+| 8/29      | Syllabus & why are we here?                                   |               | Lec. 1                                                                                |                              |
+| 8/31      | How to Construct a Model                                      | OD-1          | Lec. 2                                                                                | A0 Due  (9/1)                |
+| 9/5       | Difference equation models: generating and solving            | review OD-2   | Lec. 3                                                                                |                              |
+| 9/7       | Stability of nonlinear difference equations; chaos            | OD-3.1,3.2    | Lec. 4                                                                                |                              |
+| 9/12      | Systems of equations and introduction to matrices             | OD-3.2        | Lec. 5                                                                                |                              |
+| 9/14      | Matrices as operators: eigenvalues and eigenvectors           | Z-2.2         | Lec. 6                                                                                | A1 Due (9/15)                |
+| 9/19      | Solving matrix equations using the inverse; special topics    | OD-3.3        | Lec. 7                                                                                |                              |
+| 9/21\*    | _Catch up_                                                    |               |                                                                                       |                              |
+| 9/26      | Introduction to ODEs: analytic vs. numeric solutions          | OD-3.4        | Lec. 8                                                                                |                              |
+| 9/28      | Fundamental ODE models and their features                     | OD-3.4        | Lec. 9                                                                                | A2 Due (9/29)                |
+| 10/3\*    | Analytic and asymptotic analysis of fundamental ODE models    |               | Lec. 10                                                                               |                              |
+| 10/5      | Competition models: standard and Lotka-Volterra               |               | Lec. 11                                                                               |                              |
+| 10/10     | Stability of multi-variate competition equations              |               | Lec. 12                                                                               |                              |
+| 10/12     | _Catch up/review_                                             |               |                                                                                       | A3 Due (10/13)               |
+| 10/17     | __MIDTERM__                                                   |               |                                                                                       |                              |
+| 10/19     | Introduction to epidemic modeling                             |               | Lec. 13                                                                               |                              |
+| 10/24     | Extending epidemic models                                     |               | Lec. 14                                                                               |                              |
+| 10/26     | Age-structured epidemics                                      |               | Lec. 15                                                                               | Project Proposal Due (10/27) |
+| 10/31     | Spatially structured epidemics                                |               | Lec. 16                                                                               |                              |
+| 11/2      | Modeling evolution: an introduction to game theory            |               | Lec. 17                                                                               |                              |
+| 11/7      | Modeling evolution: cooperation                               |               | Lec. 18                                                                               | A4 Due                       |
+| 11/9      | Modeling evolution: relationships                             |               | Lec. 19                                                                               |                              |
+| 11/14     | Simluating evolutionary games                                 |               | Lec. 20                                                                               |                              |
+| 11/16     | _Catch up_                                                    |               |                                                                                       |                              |
+| 11/21     | FALL BREAK                                                    |               |                                                                                       |                              |
+| 11/23     | FALL BREAK                                                    |               |                                                                                       |                              |
+| 11/28\*   | Combining evolutionary and population dynamics (forward sims) |               | Lec. 21                                                                               |                              |
+| 11/30\*   | Combining evolutionary and population dynamics (inference)    |               | Lec. 22                                                                               | A5 Due                       |
+| 12/5      | Interim project presentations (Last names A-K)                |               |                                                                                       |                              |
+| 12/7      | Interim project presentations (Last names L-Z)                |               |                                                                                       |                              |
+| 12/12     | Work on your project                                          |               |                                                                                       |                              |
+| 12/14     | Work on your project                                          |               |                                                                                       |                              |
+| final day | Project Report Due                                            |               |                                                                                       |                              |
 
 \* Indicates a possibly virtual class session 
 
