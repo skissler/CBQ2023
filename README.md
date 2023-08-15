@@ -76,7 +76,7 @@ MATH 1300 or APPM 1350 (Calc I).  This course has its roots in biology, math, an
 * Mostly lecture-style class, in which I write on blank-ish slides and we talk about problems. 
 * Readings may be assigned before class. 
 * Problem sets consist of a mix of pen-and-paper and coding-type exercises. 
-* A course project will allow students to engage with the course material over a longer period than homeworks. There are three components that will be graded: a Project Proposal, a Project Report, and a Project Presentation. 
+* A course project will allow students to engage with the course material over a longer period than homeworks. There are three components that will be graded: a Project Proposal, a Project Presentation, and a Project Report. 
 
 
 ### Coursework & Grading
