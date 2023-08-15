@@ -12,8 +12,8 @@ Office hours: TBD
 | Date      | Topic                                                         | Reading       | Links                                                                                 | Assignments          |
 | --------- | ------------------------------------------------------------- | ------------- | ------------------------------------------------------------------------------------- | -------------------- |
 | 8/29      | Syllabus & why are we here?                                   |               | Lec. 1                                                                                |                      |
-| 8/31      | How to Construct a Model                                      | OD-1          | Lec. 2                                                                                |                      |
-| 9/5       | Difference equation models: generating and solving            | review OD-2   | Lec. 3                                                                                | A0 Due               |
+| 8/31      | How to Construct a Model                                      | OD-1          | Lec. 2                                                                                | A0 Due  (9/1)        |
+| 9/5       | Difference equation models: generating and solving            | review OD-2   | Lec. 3                                                                                |                      |
 | 9/7       | Stability of nonlinear difference equations; chaos            | OD-3.1,3.2    | Lec. 4                                                                                |                      |
 | 9/12      | Systems of equations and introduction to matrices             | OD-3.2        | Lec. 5                                                                                | A1 Due               |
 | 9/14      | Matrices as operators: eigenvalues and eigenvectors           | Z-2.2         | Lec. 6                                                                                |                      |
