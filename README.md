@@ -19,8 +19,8 @@ Office hours: TBD
 | 9/14      | Matrices as operators: eigenvalues and eigenvectors           | Z-2.2         | Lec. 6                                                                                | A1 Due (9/15)        |
 | 9/19      | Solving matrix equations using the inverse; special topics    | OD-3.3        | Lec. 7                                                                                |                      |
 | 9/21\*    | _Catch up_                                                    |               |                                                                                       |                      |
-| 9/26      | Introduction to ODEs: analytic vs. numeric solutions          | OD-3.4        | Lec. 8                                                                                | A2 Due               |
-| 9/28      | Fundamental ODE models and their features                     | OD-3.4        | Lec. 9                                                                                |                      |
+| 9/26      | Introduction to ODEs: analytic vs. numeric solutions          | OD-3.4        | Lec. 8                                                                                |                      |
+| 9/28      | Fundamental ODE models and their features                     | OD-3.4        | Lec. 9                                                                                | A2 Due (9/29)        |
 | 10/3\*    | Analytic and asymptotic analysis of fundamental ODE models    |               | Lec. 10                                                                               |                      |
 | 10/5      | Competition models: standard and Lotka-Volterra               |               | Lec. 11                                                                               |                      |
 | 10/10     | Stability of multi-variate competition equations              |               | Lec. 12                                                                               |                      |
