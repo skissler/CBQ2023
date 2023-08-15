@@ -24,7 +24,7 @@ Office hours: TBD
 | 10/3\*    | Analytic and asymptotic analysis of fundamental ODE models    |               | Lec. 10                                                                               |                      |
 | 10/5      | Competition models: standard and Lotka-Volterra               |               | Lec. 11                                                                               |                      |
 | 10/10     | Stability of multi-variate competition equations              |               | Lec. 12                                                                               |                      |
-| 10/12     | _Catch up_                                                    |               |                                                                                       | A3 Due (10/13)       |
+| 10/12     | _Catch up/review_                                             |               |                                                                                       | A3 Due (10/13)       |
 | 10/17     | __MIDTERM__                                                   |               |                                                                                       |                      |
 | 10/19     | Introduction to epidemic modeling                             |               | Lec. 13                                                                               |                      |
 | 10/24     | Extending epidemic models                                     |               | Lec. 14                                                                               |                      |
