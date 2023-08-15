@@ -11,7 +11,7 @@ Office hours: TBD
 
 | Date      | Topic                                                         | Reading       | Links                                                                                 | Assignments          |
 | --------- | ------------------------------------------------------------- | ------------- | ------------------------------------------------------------------------------------- | -------------------- |
-| 8/29      | Syllabus & why are we here                                    |               | Lec. 1                                                                                |                      |
+| 8/29      | Syllabus & why are we here?                                   |               | Lec. 1                                                                                |                      |
 | 8/31      | How to Construct a Model                                      | OD-1          | Lec. 2                                                                                |                      |
 | 9/5       | Difference equation models: generating and solving            | review OD-2   | Lec. 3                                                                                | A0 Due               |
 | 9/7       | Stability of nonlinear difference equations; chaos            | OD-3.1,3.2    | Lec. 4                                                                                |                      |
