@@ -4,9 +4,9 @@ __Prof. [Stephen Kissler](mailto:stephen.kissler@colorado.edu)__
 ([ECES 118D](Images/ECCRmap.png))\
 Tu/Th 2:30 - 3:45 \
 JSCBB B115 \
-Office hours: TBD  
+Office hours: TBD (fill out poll [here](http://whenisgood.net/pc8ydjw))
 
- 
+
 ## Schedule
 
 | Date      | Topic                                                         | Reading       | Links                                                                                 | Assignments                  |
